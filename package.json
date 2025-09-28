@@ -7,10 +7,10 @@
     "test": "test"
   },
   "dependencies": {
+    "ao-network": "^2.0.1",
     "cap": "^0.2.1",
     "network": "0.7.0"
   },
-  "devDependencies": {},
   "scripts": {
     "example": "node example"
   },
